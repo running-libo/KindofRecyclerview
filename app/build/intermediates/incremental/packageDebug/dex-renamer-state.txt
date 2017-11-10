@@ -1,0 +1,7 @@
+#Sat Nov 11 01:24:43 CST 2017
+base.0=/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a43f646a6aaa626fe6febb92b6bf793a5bbf580
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45e7931200cccd4cd9924e8a4a2a443e81c5989d/classes.dex
+base.1=/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45e7931200cccd4cd9924e8a4a2a443e81c5989d
+file.0=/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a43f646a6aaa626fe6febb92b6bf793a5bbf580/classes.dex

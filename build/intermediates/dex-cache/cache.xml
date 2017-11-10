@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f59d5079b7d02d60ae551b9dbf5639f83bd6da72">
+        <dex dex="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a43f646a6aaa626fe6febb92b6bf793a5bbf580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/da4d5f9d7fefec724557b4158352582ef7ae377d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c84446b3e55d81d6e2cb63ccccfe0868d12f9baa">
+        <dex dex="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_327fccaa645906e3ce7de353335f6f472ba4eb65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45e7931200cccd4cd9924e8a4a2a443e81c5989d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/a315dcd2b2721cbec851a0c965e78b994b8d5fd8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc7fbd2d6738c92523c57aa659b7e3e091e46021/classes.dex" />
+    </item>
+
+</items>

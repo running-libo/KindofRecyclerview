@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/apple/Desktop/KindofRecyclerview/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/apple/Desktop/KindofRecyclerview/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

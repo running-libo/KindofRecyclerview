@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/apple/.android/build-cache/b7bb25e7cb3d873b0302a33352217d2f8c36ceaa/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/apple/.android/build-cache/b7bb25e7cb3d873b0302a33352217d2f8c36ceaa/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/1f910593bec961f9ee381f6e3efcec5ff7b2b6fe/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/apple/.android/build-cache/b7bb25e7cb3d873b0302a33352217d2f8c36ceaa/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/apple/.android/build-cache/b7bb25e7cb3d873b0302a33352217d2f8c36ceaa/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/1f910593bec961f9ee381f6e3efcec5ff7b2b6fe/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/1f910593bec961f9ee381f6e3efcec5ff7b2b6fe/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/1f910593bec961f9ee381f6e3efcec5ff7b2b6fe/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/apple/.android/build-cache/b7bb25e7cb3d873b0302a33352217d2f8c36ceaa/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/1f910593bec961f9ee381f6e3efcec5ff7b2b6fe/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/apple/.android/build-cache/b7bb25e7cb3d873b0302a33352217d2f8c36ceaa/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/KindofRecyclerview/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/1f910593bec961f9ee381f6e3efcec5ff7b2b6fe/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

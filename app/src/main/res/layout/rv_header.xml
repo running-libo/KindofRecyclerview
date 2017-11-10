@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="148dp"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:paddingTop="48dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="喜剧"
+        android:textSize="24sp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1223片段 ，12万观看 ， 10万下载 ， 124万赞"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:textSize="12sp"/>
+</LinearLayout>
